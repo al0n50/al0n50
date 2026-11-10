@@ -1,54 +1,53 @@
-<div align="center">
-  <h1>Hi there, I'm Alonso Ochoa 👋</h1>
-  <h3>Computer Science Major 💻 | Aspiring Developer</h3>
+# Alonso Ochoa
 
-  <p>
-    I am a Computer Science major interested in exploring all fields of technology. <br>
-    Currently, I am expanding my skills in <b>Full Stack Web Development</b>.
-  </p>
-
-  <p>
-    <a href="https://www.linkedin.com/in/alonso-ochoa-19a3b2173/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:ajochoa03@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </p>
-</div>
+**Software Engineer · AI/QA · Cloud & Cybersecurity**  
+Miami, FL · CS Graduate, Florida International University · M.S. Engineering Management (In Progress)
 
 ---
 
-### 🛠️ Languages & Tools
+### What I'm working on
 
-I work primarily with these languages:
+- 🔭 **Wayfound** — cross-platform AI travel planning app (React Native, TypeScript, Expo)
+- 🚗 **Project Garage** — full-stack vehicle build & maintenance tracker (React, Node.js, PostgreSQL)
+- ☁️ Studying for **AWS Certified Cloud Practitioner** and **(ISC)² Certified in Cybersecurity**
 
-<div align="left">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  </div>
+### Background
 
----
+I graduated from FIU with a B.S. in Computer Science and have been building software seriously since I started tutoring CS at Miami Dade College — four years of breaking down hard concepts for 40+ first-generation students sharpens how you think about problems.
 
-### 🔭 Current Projects
+Most recently I've been testing AI agents at **Shark AI Solutions**: 20 formal QA reports, 80+ documented bugs, edge cases, and behavioral anomalies across AI-powered web and voice receptionist systems.
 
-* **✈️ Wayfound**
-    * *Description:* An all-in-one travel planning mobile application designed to make trips seamless.
-    * *Status:* Currently in development.
+Outside of code I led at the state and national level — VP of FBLA (State & **National Champion**, individual and chapter), Region 4 Coordinator for FCSSGA, President Pro-Tempore of SGA, and VP of Phi Theta Kappa.
 
 ---
 
-### 🎯 Career Goals
+### Tech
 
-* 👨‍💻 **Role:** Actively looking for **Internships** and **Entry-Level** opportunities.
-* 🚀 **Mission:** To apply my background in Java, Python, and C++ to solve real-world problems.
+```
+Languages   Java · Python · TypeScript · JavaScript · C++ · SQL
+Frameworks  React Native · React · Expo · Node.js · NativeWind · Pandas · Streamlit
+Tools       Git/GitHub · Postman · VS Code · JetBrains · PostgreSQL · Expo Router
+Cloud/Sec   AWS · IAM · Network Security · Vulnerability Assessment · CI/CD
+QA          Test Case Design · Bug Reports · AI Systems Testing · Edge Case Analysis
+```
+
+---
+
+### Projects
+
+| Project | Stack | Status |
+|---|---|---|
+| [Wayfound](https://github.com/al0n50) | React Native, TypeScript, Expo, NativeWind | Live |
+| [Life Plan OS](https://github.com/al0n50) | HTML, CSS, JavaScript | Live |
+| [Project Garage](https://github.com/al0n50) | React, Node.js, PostgreSQL | In Progress |
 
 ---
 
-### ⚡ Fun Fact
+### Education
 
-* 🌏 **Wanderlust:** I love to travel! My goal is to see the world.
-* 📍 **Visited:** I've already explored **Japan 🇯🇵** and **Spain 🇪🇸**.
+**Florida International University** — B.S. Computer Science, May 2026 · M.S. Engineering Management (In Progress)  
+**Miami Dade College** — A.A. Computer Science (With Honors) · A.A. Information Technology · Certificate, Help Desk Technician
 
 ---
+
+📫 `ajochoa03@gmail.com` · [LinkedIn](https://linkedin.com/in/alonso-ochoa) · [Portfolio](https://claude.ai/artifact/SgUYhUZFLozH57HpTmNSXp)

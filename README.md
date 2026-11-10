@@ -7,8 +7,8 @@ Miami, FL · CS Graduate, Florida International University · M.S. Engineering M
 
 ### What I'm working on
 
-- 🔭 **Wayfound** — cross-platform AI travel planning app (React Native, TypeScript, Expo)
-- 🚗 **Project Garage** — full-stack vehicle build & maintenance tracker (React, Node.js, PostgreSQL)
+- 🚗 **Modlog** — full-stack vehicle build & mod tracker (React 19, Vite, Supabase, Gemini AI, Expo mobile)
+- 📋 **Life Plan OS** — personal finance simulation app (Expo, React Native, TypeScript)
 - ☁️ Studying for **AWS Certified Cloud Practitioner** and **(ISC)² Certified in Cybersecurity**
 
 ### Background
@@ -25,10 +25,10 @@ Outside of code I led at the state and national level — VP of FBLA (State & **
 
 ```
 Languages   Java · Python · TypeScript · JavaScript · C++ · SQL
-Frameworks  React Native · React · Expo · Node.js · NativeWind · Pandas · Streamlit
-Tools       Git/GitHub · Postman · VS Code · JetBrains · PostgreSQL · Expo Router
+Frameworks  React Native · React · Expo · Node.js · Tailwind CSS · NativeWind · Pandas · Streamlit
+Tools       Git/GitHub · Postman · VS Code · JetBrains · Supabase · Zustand · Framer Motion
 Cloud/Sec   AWS · IAM · Network Security · Vulnerability Assessment · CI/CD
-QA          Test Case Design · Bug Reports · AI Systems Testing · Edge Case Analysis
+AI/QA       Gemini AI · Test Case Design · Bug Reports · AI Systems Testing · Edge Case Analysis
 ```
 
 ---
@@ -37,9 +37,9 @@ QA          Test Case Design · Bug Reports · AI Systems Testing · Edge Case A
 
 | Project | Stack | Status |
 |---|---|---|
-| [Wayfound](https://github.com/al0n50) | React Native, TypeScript, Expo, NativeWind | Live |
-| [Life Plan OS](https://github.com/al0n50) | HTML, CSS, JavaScript | Live |
-| [Project Garage](https://github.com/al0n50) | React, Node.js, PostgreSQL | In Progress |
+| [Modlog](https://github.com/al0n50/modlog) | React 19, Vite, Tailwind v4, Supabase, Gemini AI, Expo | In Progress |
+| [Life Plan OS](https://github.com/al0n50/life-plan) | Expo 58, React Native, TypeScript, Zustand | In Progress |
+| [Wayfound](https://github.com/al0n50/wayfound) | React Native, TypeScript, Expo, NativeWind | Completed |
 
 ---
 

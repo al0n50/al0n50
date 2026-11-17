@@ -14,7 +14,7 @@ FIU Computer Science graduate (B.S. '26) · M.S. Computer Engineering @ FIU · M
 | Project | What it does | Stack | Links |
 |---|---|---|---|
 | **[ModLog](https://github.com/al0n50/modlog)** | Virtual garage for car builds: mod log, build cost tracking, NHTSA VIN decoding, and an AI mod advisor behind a secured serverless function | React 19 · Vite · Tailwind · Supabase · Gemini · Vercel | [Live demo](https://modlog.vercel.app) |
-| **[Life Plan OS](https://github.com/al0n50/life-plan)** | Cross-platform finance app with a custom TypeScript engine that simulates paychecks, taxes, debt payoff, and savings goals day by day | Expo · React Native · TypeScript · Zustand | — |
+| **[Life Plan OS](https://github.com/al0n50/life-plan)** | Cross-platform finance app with a custom TypeScript engine that simulates paychecks, taxes, debt payoff, and savings goals day by day | Expo · React Native · TypeScript · Zustand | [Live demo](https://life-plan-os.vercel.app) |
 | **Wayfound** | Team project: AI travel planner for iOS, Android, and web. I built real-time trip collaboration and the reservations scanner and parser | React Native · TypeScript · Expo · Supabase | Private repo |
 | **[Rentability AI](https://github.com/al0n50/applied-ai-system-project)** | RAG assistant (Python microservice) that answers party-equipment rental questions; CodePath AI110 final project | Python · RAG · TypeScript · T3 Stack | — |
 | **[Checkers AI](https://github.com/al0n50/Checkers-AI)** | Playable Checkers with a Minimax AI opponent and adjustable difficulty | Python · Pygame | — |
